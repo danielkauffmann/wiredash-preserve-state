@@ -1,6 +1,6 @@
-# wiredash_preserve_state
+# Wiredash preserve state demo
 
-A new Flutter project.
+This is a demo for [the current opened issue.](https://github.com/wiredashio/wiredash-sdk/issues/289)
 
 ## Getting Started
 
